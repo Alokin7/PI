@@ -1,0 +1,16 @@
+C:\Users\Lucifer\Desktop\Projekt\r16045\Little Paw\Luka_app\bin\Debug\Luka_app.exe.config
+C:\Users\Lucifer\Desktop\Projekt\r16045\Little Paw\Luka_app\bin\Debug\Luka_app.exe
+C:\Users\Lucifer\Desktop\Projekt\r16045\Little Paw\Luka_app\bin\Debug\Luka_app.pdb
+C:\Users\Lucifer\Desktop\Projekt\r16045\Little Paw\Luka_app\bin\Debug\EntityFramework.dll
+C:\Users\Lucifer\Desktop\Projekt\r16045\Little Paw\Luka_app\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Lucifer\Desktop\Projekt\r16045\Little Paw\Luka_app\bin\Debug\EntityFramework.xml
+C:\Users\Lucifer\Desktop\Projekt\r16045\Little Paw\Luka_app\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Lucifer\Desktop\Projekt\r16045\Little Paw\Luka_app\obj\Debug\Luka_app.csprojResolveAssemblyReference.cache
+C:\Users\Lucifer\Desktop\Projekt\r16045\Little Paw\Luka_app\obj\Debug\Luka_app.frmEnciklopedijaBolesti.resources
+C:\Users\Lucifer\Desktop\Projekt\r16045\Little Paw\Luka_app\obj\Debug\Luka_app.Enciklopedija_Bolesti.frmNovaBolest.resources
+C:\Users\Lucifer\Desktop\Projekt\r16045\Little Paw\Luka_app\obj\Debug\Luka_app.PopisZivotinja.frmNovaŽivotinja.resources
+C:\Users\Lucifer\Desktop\Projekt\r16045\Little Paw\Luka_app\obj\Debug\Luka_app.PopisZivotinja.frmPopisŽivotinja.resources
+C:\Users\Lucifer\Desktop\Projekt\r16045\Little Paw\Luka_app\obj\Debug\Luka_app.Properties.Resources.resources
+C:\Users\Lucifer\Desktop\Projekt\r16045\Little Paw\Luka_app\obj\Debug\Luka_app.csproj.GenerateResource.Cache
+C:\Users\Lucifer\Desktop\Projekt\r16045\Little Paw\Luka_app\obj\Debug\Luka_app.exe
+C:\Users\Lucifer\Desktop\Projekt\r16045\Little Paw\Luka_app\obj\Debug\Luka_app.pdb

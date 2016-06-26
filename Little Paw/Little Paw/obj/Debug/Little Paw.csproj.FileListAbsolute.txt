@@ -1,0 +1,21 @@
+C:\Users\Lucifer\Desktop\Projekt\r16045\Little Paw\Little Paw\bin\Debug\Little Paw.exe.config
+C:\Users\Lucifer\Desktop\Projekt\r16045\Little Paw\Little Paw\bin\Debug\Little Paw.exe
+C:\Users\Lucifer\Desktop\Projekt\r16045\Little Paw\Little Paw\bin\Debug\Little Paw.pdb
+C:\Users\Lucifer\Desktop\Projekt\r16045\Little Paw\Little Paw\bin\Debug\EntityFramework.dll
+C:\Users\Lucifer\Desktop\Projekt\r16045\Little Paw\Little Paw\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Lucifer\Desktop\Projekt\r16045\Little Paw\Little Paw\bin\Debug\Luka_app.exe
+C:\Users\Lucifer\Desktop\Projekt\r16045\Little Paw\Little Paw\bin\Debug\Luka_app.pdb
+C:\Users\Lucifer\Desktop\Projekt\r16045\Little Paw\Little Paw\bin\Debug\EntityFramework.xml
+C:\Users\Lucifer\Desktop\Projekt\r16045\Little Paw\Little Paw\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Lucifer\Desktop\Projekt\r16045\Little Paw\Little Paw\obj\Debug\Little Paw.csprojResolveAssemblyReference.cache
+C:\Users\Lucifer\Desktop\Projekt\r16045\Little Paw\Little Paw\obj\Debug\Little_Paw.PrijavaForma.resources
+C:\Users\Lucifer\Desktop\Projekt\r16045\Little Paw\Little Paw\obj\Debug\Little_Paw.Forme.TajnicaMDIForma.resources
+C:\Users\Lucifer\Desktop\Projekt\r16045\Little Paw\Little Paw\obj\Debug\Little_Paw.Forme.TehnicarMDIForma.resources
+C:\Users\Lucifer\Desktop\Projekt\r16045\Little Paw\Little Paw\obj\Debug\Little_Paw.Forme.VeterinarMDIForma.resources
+C:\Users\Lucifer\Desktop\Projekt\r16045\Little Paw\Little Paw\obj\Debug\Little_Paw.Properties.Resources.resources
+C:\Users\Lucifer\Desktop\Projekt\r16045\Little Paw\Little Paw\obj\Debug\Little Paw.csproj.GenerateResource.Cache
+C:\Users\Lucifer\Desktop\Projekt\r16045\Little Paw\Little Paw\obj\Debug\Little Paw.exe
+C:\Users\Lucifer\Desktop\Projekt\r16045\Little Paw\Little Paw\obj\Debug\Little Paw.pdb
+C:\Users\Lucifer\Desktop\Projekt\r16045\Little Paw\Little Paw\obj\Debug\Little_Paw.Forme.PopisLijekovaForma.resources
+C:\Users\Lucifer\Desktop\Projekt\r16045\Little Paw\Little Paw\obj\Debug\Little_Paw.Forme.NoviLijekForma.resources
+C:\Users\Lucifer\Desktop\Projekt\r16045\Little Paw\Little Paw\obj\Debug\Little_Paw.Forme.DnevniTerminForma.resources
